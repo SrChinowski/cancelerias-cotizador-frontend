@@ -1,0 +1,26 @@
+[
+  {
+    "plazo": "Efectivo",
+    "tasa": 0
+  },
+  {
+    "plazo": "1 Exhibición Tarjeta",
+    "tasa": 4.18
+  },
+  {
+    "plazo": "3 meses",
+    "tasa": 9.48
+  },
+  {
+    "plazo": "6 meses",
+    "tasa": 12.96
+  },
+  {
+    "plazo": "9 meses",
+    "tasa": 17.02
+  },
+  {
+    "plazo": "12 meses",
+    "tasa": 18.99
+  }
+]

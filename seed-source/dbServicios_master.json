@@ -1,0 +1,162 @@
+[
+  {
+    "cat": "Aluminio",
+    "d": "Instalación Ventana",
+    "c": 250,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Aluminio",
+    "d": "Boquilla",
+    "c": 180,
+    "t": "Metros Lineales",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Aluminio",
+    "d": "Retiro ventana",
+    "c": 150,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Aluminio",
+    "d": "Retiro herrería",
+    "c": 350,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Aluminio",
+    "d": "Cascajo",
+    "c": 50,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Aluminio",
+    "d": "Jaladeras Embutidas Extras",
+    "c": 200,
+    "t": "Unidades",
+    "m": 2,
+    "sel": "NO"
+  },
+  {
+    "cat": "Aluminio",
+    "d": "Ángulo de Aluminio (Remate)",
+    "c": 85,
+    "t": "Metros Lineales",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Cristal Templado",
+    "d": "Instalación Cancel",
+    "c": 450,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Cristal Templado",
+    "d": "Grabado Esmerilado",
+    "c": 640,
+    "t": "Metros Cuadrados",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Cristal Templado",
+    "d": "Película de Seguridad",
+    "c": 350,
+    "t": "Metros Cuadrados",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Instalación Persiana",
+    "c": 150,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Braquets intermedios",
+    "c": 150,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Braquets doble en escuadra",
+    "c": 650,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Braquets doble en linea",
+    "c": 450,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Motor inalámbrico Batería",
+    "c": 3790,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Motor Alámbrico",
+    "c": 1999,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Control Remoto RF 1 Canal",
+    "c": 495,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Control Remoto RF 15 Canales",
+    "c": 769,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Fascia Cubre Polvo",
+    "c": 439.5,
+    "t": "Metros Lineales",
+    "m": 1,
+    "sel": "NO"
+  },
+  {
+    "cat": "Persianas",
+    "d": "Galleta Sky Line",
+    "c": 80,
+    "t": "Unidades",
+    "m": 1,
+    "sel": "NO"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "fam": "Black Out",
+    "mod": "MONTREAL",
+    "max": 3,
+    "costo": 339
+  },
+  {
+    "fam": "Black Out",
+    "mod": "500",
+    "max": 3,
+    "costo": 389
+  },
+  {
+    "fam": "Black Out",
+    "mod": "BUDELLI",
+    "max": 2.5,
+    "costo": 359
+  },
+  {
+    "fam": "Black Out",
+    "mod": "IPANEMA",
+    "max": 2.5,
+    "costo": 359
+  },
+  {
+    "fam": "Black Out",
+    "mod": "GALAXY",
+    "max": 3,
+    "costo": 419
+  },
+  {
+    "fam": "Black Out",
+    "mod": "LONG BEACH",
+    "max": 2.5,
+    "costo": 305
+  },
+  {
+    "fam": "Black Out",
+    "mod": "LUXURY",
+    "max": 3,
+    "costo": 399
+  },
+  {
+    "fam": "Black Out",
+    "mod": "OHIO",
+    "max": 2.5,
+    "costo": 369
+  },
+  {
+    "fam": "Black Out",
+    "mod": "SIDNEY",
+    "max": 3,
+    "costo": 419
+  },
+  {
+    "fam": "Black Out",
+    "mod": "TEXTURE",
+    "max": 2.6,
+    "costo": 379
+  },
+  {
+    "fam": "Black Out",
+    "mod": "STYLUS",
+    "max": 3,
+    "costo": 389
+  },
+  {
+    "fam": "Screen",
+    "mod": "SOFT Y BASIC",
+    "max": 3,
+    "costo": 299
+  },
+  {
+    "fam": "Screen",
+    "mod": "MILAN",
+    "max": 2.5,
+    "costo": 419
+  },
+  {
+    "fam": "Screen",
+    "mod": "ONE",
+    "max": 2.5,
+    "costo": 429
+  },
+  {
+    "fam": "Filtro Ligero",
+    "mod": "BUDELLI",
+    "max": 2.5,
+    "costo": 299
+  },
+  {
+    "fam": "Filtro Ligero",
+    "mod": "IPANEMA",
+    "max": 2.5,
+    "costo": 277
+  },
+  {
+    "fam": "Filtro Ligero",
+    "mod": "SIDNEY",
+    "max": 3,
+    "costo": 319
+  },
+  {
+    "fam": "Filtro Ligero",
+    "mod": "LONG BEACH",
+    "max": 2.5,
+    "costo": 289
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO BASIC",
+    "max": 2.5,
+    "costo": 379
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO BASIC XL",
+    "max": 2.8,
+    "costo": 389
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO BRIGHT",
+    "max": 2.85,
+    "costo": 539
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO CELEBRITY",
+    "max": 2.5,
+    "costo": 449
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO DIM OUT SOFT",
+    "max": 3,
+    "costo": 939
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO DIM OUT",
+    "max": 3,
+    "costo": 629
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO DIM OUT WOODS",
+    "max": 3,
+    "costo": 746
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO SEASON",
+    "max": 2.8,
+    "costo": 699
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO TERRA",
+    "max": 3,
+    "costo": 589
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO WOOD LINE",
+    "max": 3,
+    "costo": 449
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO DIM OUT GENIUS",
+    "max": 2.8,
+    "costo": 739
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO DIM OUT ROYAL",
+    "max": 2.8,
+    "costo": 799
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO DIM OUT LINO",
+    "max": 2.8,
+    "costo": 849
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO DENSE WOODLOOK",
+    "max": 2.8,
+    "costo": 599
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO ADVANTAGE",
+    "max": 3,
+    "costo": 769
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO RADIANCE DUO LINE",
+    "max": 3,
+    "costo": 589
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO BRAVE DIMOUT",
+    "max": 2.8,
+    "costo": 779
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO GLAM DIMOUT",
+    "max": 3,
+    "costo": 779
+  },
+  {
+    "fam": "Sheer Elegance",
+    "mod": "DUO DIM OUT SERENITY",
+    "max": 2.85,
+    "costo": 599
+  }
+]

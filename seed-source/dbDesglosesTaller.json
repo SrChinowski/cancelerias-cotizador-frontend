@@ -1,0 +1,4442 @@
+[
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Riel 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Chambrana 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Chambrana 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Poste 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Traslape 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Zoclo Alto 2 pulgadas corrediza",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "16/2"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "16/2"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Largo en Hoja corrediza (X) o en Hoja fija (O)",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "16/2"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja corrediza (X)",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "ALTO_C-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja Fija (O)",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "ALTO_F-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Riel adicional 2 pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "0",
+    "pos": "Largo1",
+    "desc": "6.4"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Carretillas Zoclo Alto",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Intermedio",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Intermedio",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "5",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Tornillo 8x1.5",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Jaladera Perico 12cm",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Remache 56",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Riel 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Chambrana 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Chambrana 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Poste 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Poste 2 Pulgadas",
+    "ubicacion": "Hoja Fija(O)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Traslape 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Traslape 2 Pulgadas",
+    "ubicacion": "Hoja Fija (O)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Zoclo Alto 2 pulgadas corrediza",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "16/2"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "16/2"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Largo en Hoja corrediza (X) o en Hoja fija (O)",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "16/2"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja corrediza (X)",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "ALTO_C-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja Fija (O)",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "ALTO_F-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Carretillas Zoclo Alto",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "intermedio",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "intermedio",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Tornillo 8x1.5",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Jaladera Perico 12cm",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Riel 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Chambrana 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Chambrana 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Poste 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Traslape 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Traslape 2 Pulgadas",
+    "ubicacion": "Hoja Fija (O)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo Alto 2 pulgadas corrediza",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "20.6/3"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "20.6/3"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Largo en Hoja corrediza (X) o en Hoja fija (O)",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "20.6/3"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja corrediza (X)",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "ALTO_C-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja Fija (O)",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "ALTO_F-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Carretillas Zoclo Alto",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "6",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "intermedio",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "intermedio",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Tornillo 8x1.5",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "12",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Jaladera Perico 12cm",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Riel 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Chambrana 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Chambrana 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Poste 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Adaptador Oxxo 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Traslape 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Traslape 2 Pulgadas",
+    "ubicacion": "Hoja Fija (O)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Poste 2 Pulgadas",
+    "ubicacion": "Hoja Fija (O)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo Alto 2 pulgadas corrediza",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "29.6/4"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "29.6/4"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Largo en Hoja corrediza (X) o en Hoja fija (O)",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "29.6/4"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja corrediza (X)",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "ALTO_C-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo cabezal 2 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja Fija (O)",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "ALTO_F-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Carretillas Zoclo Alto",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "8",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "intermedio",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "intermedio",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Tornillo 8x1.5",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "16",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Jaladera Perico 12cm",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Escalonado 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Escalonado 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Junquillo 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Junquillo 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "5.2"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Escalonado 2 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Escalonado 2 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_A",
+    "pos": "alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Junquillo 2 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Junquillo 2 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "5.2"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Fijo",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Fijo",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Fijo",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Fijo",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo inferior o superior",
+    "perfil": "Escalonado 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo inferior o superior",
+    "perfil": "Escalonado 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "1.3"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo inferior o superior",
+    "perfil": "Junquillo 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo inferior o superior",
+    "perfil": "Junquillo 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "5.2"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo inferior o superior",
+    "perfil": "Tapa Chambrana 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Escalonado 2 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Escalonado 2 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_A",
+    "pos": "alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Junquillo 2 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 2 Pulgadas Fijo",
+    "perfil": "Junquillo 2 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "5.2"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Fijo",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Fijo",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Fijo",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 2 Pulgadas Fijo",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Riel 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Chambrana 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Chambrana 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Poste 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Traslape 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Zoclo 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "18/2"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "18/2"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Intermedio Largo en Hoja corrediza (X) o en Hoja fija (O)",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "18/2"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja corrediza (X)",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "ALTO_C-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja Fija (O)",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "ALTO_F-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Riel adicional 2 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "0",
+    "pos": "Largo1",
+    "desc": "6.4"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Carretillas Zoclo 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Intermedio",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Intermedio",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "5",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Tornillo 10x1.5",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Jaladera Perico 12cms",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas",
+    "perfil": "Remache 56",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Riel 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Chambrana 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Chambrana 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Poste 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Poste 3 Pulgadas",
+    "ubicacion": "Hoja Fija(O)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Traslape 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Traslape 3 Pulgadas",
+    "ubicacion": "Hoja Fija (O)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Zoclo 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "18/2"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "18/2"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Intermedio Largo en Hoja corrediza (X) o en Hoja fija (O)",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "18/2"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja corrediza (X)",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "ALTO_C-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 1 hojas corredizas y 1 hoja fija",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja Fija (O)",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "ALTO_F-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Carretillas Zoclo 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Intermedio",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Intermedio",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Tornillo 10x1.5",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo  1 hojas corredizas y 1 hoja fija",
+    "perfil": "Jaladera Perico 12cms",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Riel 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Chambrana 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Chambrana 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Poste 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Traslape 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Traslape 3 Pulgadas",
+    "ubicacion": "Hoja Fija (O)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo Alto 3 Pulgadas corrediza",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "23/3"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo cabezal 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "23/3"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo cabezal 3 Pulgadas",
+    "ubicacion": "Intermedio Largo en Hoja corrediza (X) o en Hoja fija (O)",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "23/3"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo cabezal 3 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja corrediza (X)",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "ALTO_C-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Zoclo cabezal 3 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja Fija (O)",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "ALTO_F-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Carretillas Zoclo 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "6",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Intermedio",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Vinil Pata 12",
+    "ubicacion": "Intermedio",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Tornillo 10x1.5",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "12",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas Laterales y 1 hoja fija central",
+    "perfil": "Jaladera Perico 12cms",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Riel 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Chambrana 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Chambrana 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Poste 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Adaptador Oxxo 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Traslape 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Traslape 3 Pulgadas",
+    "ubicacion": "Hoja Fija (O)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Poste 3 Pulgadas",
+    "ubicacion": "Hoja Fija (O)",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "3.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo Alto 3 Pulgadas corrediza",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "33.2/4"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo cabezal 3 Pulgadas",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "33.2/4"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo cabezal 3 Pulgadas",
+    "ubicacion": "Intermedio Largo en Hoja corrediza (X) o en Hoja fija (O)",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "33.2/4"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo cabezal 3 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja corrediza (X)",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "ALTO_C-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Zoclo cabezal 3 Pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja Fija (O)",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "ALTO_F-M_ZOCLO-M_CABEZAL"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Carretillas Zoclo Alto",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "8",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "intermedio",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Vinil Cuña 10",
+    "ubicacion": "intermedio",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "según la M_INTERMEDIO en el configurador"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Tornillo 10x1.5",
+    "ubicacion": "Hoja (X, O)",
+    "pzas": "16",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Corredizo 2 hojas corredizas centrales y 2 hoja fija laterales",
+    "perfil": "Jaladera Perico 12cms",
+    "ubicacion": "Hoja Corrediza (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo",
+    "perfil": "Escalonado 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo",
+    "perfil": "Escalonado 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo",
+    "perfil": "Junquillo 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo",
+    "perfil": "Junquillo 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "5.2"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo",
+    "perfil": "Escalonado 3 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo",
+    "perfil": "Escalonado 3 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_A",
+    "pos": "alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo",
+    "perfil": "Junquillo 3 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo",
+    "perfil": "Junquillo 3 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Fijo",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Fijo",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Fijo",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Fijo",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo inferior o superior",
+    "perfil": "Escalonado 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo inferior o superior",
+    "perfil": "Escalonado 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "1.3"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo inferior o superior",
+    "perfil": "Junquillo 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo inferior o superior",
+    "perfil": "Junquillo 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "5.2"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo inferior o superior",
+    "perfil": "Tapa Chambrana 3 Pulgadas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo  inferior o superior",
+    "perfil": "Escalonado 3 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo  inferior o superior",
+    "perfil": "Escalonado 3 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_A",
+    "pos": "alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo  inferior o superior",
+    "perfil": "Junquillo 3 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "V 3 Pulgadas Fijo  inferior o superior",
+    "perfil": "Junquillo 3 Pulgadas",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "2.6"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Fijo  inferior o superior",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Fijo  inferior o superior",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Fijo  inferior o superior",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V 3 Pulgadas Fijo  inferior o superior",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V S1400 1 Hoja proyeccion",
+    "perfil": "Cerco Liso Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V S1400 1 Hoja proyeccion",
+    "perfil": "Cerco Liso Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "V S1400 1 Hoja proyeccion",
+    "perfil": "Hoja Lisa Ventana",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "4.2"
+  },
+  {
+    "linea": "V S1400 1 Hoja proyeccion",
+    "perfil": "Hoja Lisa Ventana",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.2"
+  },
+  {
+    "linea": "V S1400 1 Hoja proyeccion",
+    "perfil": "Junquillo Ancho",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "11.9"
+  },
+  {
+    "linea": "V S1400 1 Hoja proyeccion",
+    "perfil": "Junquillo Ancho",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "14.4"
+  },
+  {
+    "linea": "V S1400 1 Hoja proyeccion",
+    "perfil": "Pilastra Ventana",
+    "ubicacion": "intermedio en Hoja Proyeccion o fijo",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "ALTO_F-M_POSTE-M_POSTE"
+  },
+  {
+    "linea": "V S1400 1 Hoja proyeccion",
+    "perfil": "Pilastra Ventana",
+    "ubicacion": "intermedio en Hoja Proyeccion",
+    "pzas": "INT_CORR_L",
+    "pos": "Largo1",
+    "desc": "M_POSTE-M_POSTE"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Cierre de presion",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Escuadra Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Escuadra Ventana",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Union Ventana",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "3",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "6",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Bisagra de 2 Palas",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Compas Retenedor",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 1 hoja proyeccion",
+    "perfil": "Tornillo 8x1/2",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V S1400 2 hojas proyeccion",
+    "perfil": "Cerco Liso Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0.00"
+  },
+  {
+    "linea": "V S1400 2 hojas proyeccion",
+    "perfil": "Cerco Liso Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "V S1400 2 hojas proyeccion",
+    "perfil": "Hoja Lisa Ventana",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "5.4/2"
+  },
+  {
+    "linea": "V S1400 2 hojas proyeccion",
+    "perfil": "Hoja Lisa Ventana",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "4.2"
+  },
+  {
+    "linea": "V S1400 2 hojas proyeccion",
+    "perfil": "Junquillo Ancho",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "215/2"
+  },
+  {
+    "linea": "V S1400 2 hojas proyeccion",
+    "perfil": "Junquillo Ancho",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "14.4"
+  },
+  {
+    "linea": "V S1400 2 hojas proyeccion",
+    "perfil": "Pilastra Ventana",
+    "ubicacion": "intermedio",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "9.5"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Cierre de presion",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Escuadra Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Escuadra Ventana",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Union Ventana",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Bisagra de 2 Palas",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Compas Retenedor",
+    "ubicacion": "Hoja Proyeccion",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Tornillo 8x1/2",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V S1400 Fijo",
+    "perfil": "Cerco Liso Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "V S1400 Fijo",
+    "perfil": "Cerco Liso Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "V S1400 Fijo",
+    "perfil": "Junquillo Ancho",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "5.2"
+  },
+  {
+    "linea": "V S1400 Fijo",
+    "perfil": "Junquillo Ancho",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "7.96"
+  },
+  {
+    "linea": "V S1400 Fijo",
+    "perfil": "Pilastra Ventana",
+    "ubicacion": "intermedio en fijo",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "4.2"
+  },
+  {
+    "linea": "V S1400 Fijo",
+    "perfil": "Pilastra Ventana",
+    "ubicacion": "intermedio en fijo",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "4.2"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Escuadra Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Union Ventana",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "intermedio en fijo",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Goma rigida",
+    "ubicacion": "intermedio en fijo",
+    "pzas": "INT_FIJO_A",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S1400 2 hojas proyeccion",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "nan",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas",
+    "perfil": "Cerco Perimetral",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas",
+    "perfil": "Cerco Perimetral",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas",
+    "perfil": "Hoja Perimetral",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "7"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas",
+    "perfil": "Hoja Perimetral",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "1.4/2"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas",
+    "perfil": "Tapeta",
+    "ubicacion": "hoja corrediza",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "7"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas",
+    "perfil": "Cierre Embutido",
+    "ubicacion": "hoja corrediza",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas",
+    "perfil": "Carretillas",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas",
+    "perfil": "Escuadra Cerco",
+    "ubicacion": "contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas",
+    "perfil": "Escuadra Hoja",
+    "ubicacion": "hoja corrediza",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas",
+    "perfil": "Vinil s4600",
+    "ubicacion": "hoja corrediza",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas",
+    "perfil": "Vinil s4600",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas",
+    "perfil": "Felpa",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas",
+    "perfil": "Felpa",
+    "ubicacion": "hoja corrediza",
+    "pzas": "8",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "cerco Perimetral",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "cerco Perimetral",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Hoja Perimetral",
+    "ubicacion": "hoja corrediza",
+    "pzas": "6",
+    "pos": "Alto",
+    "desc": "7"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Hoja Perimetral",
+    "ubicacion": "hoja corrediza",
+    "pzas": "6",
+    "pos": "Largo1",
+    "desc": "-5.4/3"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Tapeta",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "7"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Cierre Embutido",
+    "ubicacion": "hoja corrediza",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Carretillas",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Escuadra Cerco",
+    "ubicacion": "contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Escuadra Hoja",
+    "ubicacion": "hoja corrediza",
+    "pzas": "12",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Vinil s4600",
+    "ubicacion": "hoja corrediza",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Vinil s4600",
+    "ubicacion": "hoja corrediza",
+    "pzas": "6",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Felpa",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Felpa",
+    "ubicacion": "hoja corrediza",
+    "pzas": "12",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 1 hoja fija",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "cerco Perimetral",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "cerco Perimetral",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Hoja Perimetral",
+    "ubicacion": "hoja corrediza",
+    "pzas": "8",
+    "pos": "Alto",
+    "desc": "7"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Hoja Perimetral",
+    "ubicacion": "hoja corrediza",
+    "pzas": "8",
+    "pos": "Largo1",
+    "desc": "-5/4"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Tapeta",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "7"
+  },
+  {
+    "linea": "V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Union 4 hojas",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "7"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Cierre Embutido",
+    "ubicacion": "hoja corrediza",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Carretillas",
+    "ubicacion": "hoja corrediza",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Escuadra Cerco",
+    "ubicacion": "contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Escuadra Hoja",
+    "ubicacion": "hoja corrediza",
+    "pzas": "16",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Vinil s4600",
+    "ubicacion": "hoja corrediza",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Vinil s4600",
+    "ubicacion": "hoja corrediza",
+    "pzas": "8",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Felpa",
+    "ubicacion": "hoja corrediza",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Felpa",
+    "ubicacion": "hoja corrediza",
+    "pzas": "16",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 2 hojas corredizas 2 hoja fija",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 Fijo",
+    "perfil": "Cerco Fijo S4600",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 Fijo",
+    "perfil": "Cerco Fijo S4600",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "V S4600 Fijo",
+    "perfil": "Junquillo S4600",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "5.4"
+  },
+  {
+    "linea": "V S4600 Fijo",
+    "perfil": "Junquillo S4600",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "5.4-3.4"
+  },
+  {
+    "linea": "V S4600 Fijo",
+    "perfil": "Pilastra Ventana",
+    "ubicacion": "Intermedio en el fijo",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "4.5"
+  },
+  {
+    "linea": "V S4600 Fijo",
+    "perfil": "Pilastra Ventana",
+    "ubicacion": "Intermedio en el fijo",
+    "pzas": "INT_FIJO_A",
+    "pos": "alto",
+    "desc": "4.5"
+  },
+  {
+    "linea": "Herrajes V S4600 Fijo",
+    "perfil": "Escuadra Cerco",
+    "ubicacion": "contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 Fijo",
+    "perfil": "Vinil s4600",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 Fijo",
+    "perfil": "Vinil s4600",
+    "ubicacion": "contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 Fijo",
+    "perfil": "Vinil s4600",
+    "ubicacion": "Intermedio en el fijo",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 Fijo",
+    "perfil": "Vinil s4600",
+    "ubicacion": "Intermedio en el fijo",
+    "pzas": "INT_FIJO_A",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes V S4600 Fijo",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta 3 Pulgadas",
+    "perfil": "Batiente 2 venas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "2.6"
+  },
+  {
+    "linea": "Puerta 3 Pulgadas",
+    "perfil": "Batiente 2 venas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta 3 Pulgadas",
+    "perfil": "Zoclo 2 venas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "14.8"
+  },
+  {
+    "linea": "Puerta 3 Pulgadas",
+    "perfil": "Poste 5.5cms",
+    "ubicacion": "Hoja Abatible",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.8"
+  },
+  {
+    "linea": "Puerta 3 Pulgadas",
+    "perfil": "Duela lisa 5 Pulgadas",
+    "ubicacion": "Duela Alta",
+    "pzas": "((ALTO_C - M_ZOCLO - M_CABEZAL + 1.8)/12)",
+    "pos": "Alto",
+    "desc": "alto/2"
+  },
+  {
+    "linea": "Puerta 3 Pulgadas",
+    "perfil": "Intermedio 3 pulgadas",
+    "ubicacion": "Intermedio Largo en Hoja corrediza (X) o en Hoja fija (O)",
+    "pzas": "INT_FIJO_L",
+    "pos": "Largo1",
+    "desc": "14.8"
+  },
+  {
+    "linea": "Puerta 3 Pulgadas",
+    "perfil": "Intermedio 3 pulgadas",
+    "ubicacion": "Intermedio Alto en Hoja corrediza (X)",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "alto del poste 5.5 del contramarco-M_ZOCLO-M_INTERMEDIO"
+  },
+  {
+    "linea": "Herrajes Puerta 3 Pulgadas",
+    "perfil": "Bisagras libro 3x3",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 3 Pulgadas",
+    "perfil": "chapa doble manija",
+    "ubicacion": "Hoja Abatible",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 3 Pulgadas",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Hoja Abatible",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 3 Pulgadas",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Hoja Abatible",
+    "pzas": "2",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 3 Pulgadas",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_CORR_L",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 3 Pulgadas",
+    "perfil": "Vinil Pata 11",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_CORR_A",
+    "pos": "alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 3 Pulgadas",
+    "perfil": "Remache 56",
+    "ubicacion": "Hoja Abatible",
+    "pzas": "24",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 3 Pulgadas",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta S1400 1 hoja",
+    "perfil": "cerco liso Puerta",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta S1400 1 hoja",
+    "perfil": "cerco liso Puerta",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta S1400 1 hoja",
+    "perfil": "Hoja Lisa Puerta",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "5"
+  },
+  {
+    "linea": "Puerta S1400 1 hoja",
+    "perfil": "Hoja Lisa Puerta",
+    "ubicacion": "hoja",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "7.3"
+  },
+  {
+    "linea": "Puerta S1400 1 hoja",
+    "perfil": "Zoclo Monumental",
+    "ubicacion": "Hoja",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "18"
+  },
+  {
+    "linea": "Puerta S1400 1 hoja",
+    "perfil": "Pilastra Puerta",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "18"
+  },
+  {
+    "linea": "Puerta S1400 1 hoja",
+    "perfil": "Pilastra Puerta",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "18"
+  },
+  {
+    "linea": "Puerta S1400 1 hoja",
+    "perfil": "Junquillo ancho",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "18.7"
+  },
+  {
+    "linea": "Puerta S1400 1 hoja",
+    "perfil": "Junquillo ancho",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "24.1"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Bisagras 3 palas",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Chapa S1400",
+    "ubicacion": "hoja",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Escuadras Puerta",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Escuadras Puerta",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Union Puerta",
+    "ubicacion": "Hoja",
+    "pzas": "2 * INT_CORR_L",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Goma Rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Goma Rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Goma Rigida",
+    "ubicacion": "Hoja",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Goma Rigida",
+    "ubicacion": "Hoja",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 1 Hoja",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "nan",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "cerco liso Puerta",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "cerco liso Puerta",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "Pilastra Puerta",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "6.7"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "Hoja Lisa Puerta",
+    "ubicacion": "Hoja",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "5"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "Hoja Lisa Puerta",
+    "ubicacion": "hoja",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "9.6/2"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "Zoclo Monumental",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "31"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "Junquillo ancho",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "24.1"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "Junquillo ancho",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "30.3/2"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "Pilastra Puerta",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_CORR_A",
+    "pos": "Alto",
+    "desc": "18"
+  },
+  {
+    "linea": "Puerta S1400 2 Hojas",
+    "perfil": "Pilastra Puerta",
+    "ubicacion": "Intermedio",
+    "pzas": "INT_CORR_L",
+    "pos": "Largo1",
+    "desc": "31"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Bisagras 3 palas",
+    "ubicacion": "Contramarco",
+    "pzas": "6",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Chapa S1400",
+    "ubicacion": "hoja",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Escuadras Puerta",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Union Puerta",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Escuadras Puerta",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Goma Rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Goma Rigida",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Goma Rigida",
+    "ubicacion": "Hoja",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Goma Rigida",
+    "ubicacion": "Hoja",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta S1400 2 Hojas",
+    "perfil": "Tornillo 10x2",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Mosquitero",
+    "perfil": "Riel superior Mosquitero",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Mosquitero",
+    "perfil": "Guia Inferior Mosquitero",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Mosquitero",
+    "perfil": "Mosquitero",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "largo1 /2"
+  },
+  {
+    "linea": "Mosquitero",
+    "perfil": "Mosquitero",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "5.1"
+  },
+  {
+    "linea": "Herrajes Mosquitero",
+    "perfil": "Carretillas",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Mosquitero",
+    "perfil": "Vinil Cola de rata",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Mosquitero",
+    "perfil": "Vinil Cola de rata",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Mosquitero",
+    "perfil": "Vinil Aleta",
+    "ubicacion": "Hoja",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Mosquitero",
+    "perfil": "Vinil Aleta",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Mosquitero",
+    "perfil": "Tornillo 8x1/2",
+    "ubicacion": "Contramarco",
+    "pzas": "5",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Mosquitero",
+    "perfil": "Felpa",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Riel baño de lujo",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Guia baño inferior",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": ".8"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Jamba lateral baño Semilujo",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "1"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "4.8"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "-3.5/2"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Carretillas",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Escuadras semilujo",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Jaladeras Trompa de elefante",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Remaches",
+    "ubicacion": "Remache 56",
+    "pzas": "26",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Tornillos 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Vinil pata 11",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180° 2 hojas corredizas",
+    "perfil": "Vinil pata 11",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 1 hojas corrediza 1 hoja fija",
+    "perfil": "Riel baño de lujo",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 1 hojas corrediza 1 hoja fija",
+    "perfil": "Guia baño inferior",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": ".8"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 1 hojas corrediza 1 hoja fija",
+    "perfil": "Jamba lateral baño Semilujo",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "1"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 1 hojas corrediza 1 hoja fija",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "4.8"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 1 hojas corrediza 1 hoja fija",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "-3.5/2"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 1 hojas corrediza 1 hoja fija",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja fija",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "3.2"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 180° 1 hojas corrediza 1 hoja fija",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja fija",
+    "pzas": "4",
+    "pos": "Largo1",
+    "desc": "-3.5/2"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180°  1 hojas corrediza 1 hoja fija",
+    "perfil": "Carretillas",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180°  1 hojas corrediza 1 hoja fija",
+    "perfil": "Escuadras semilujo",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180°  1 hojas corrediza 1 hoja fija",
+    "perfil": "Jaladeras Trompa de elefante",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180°  1 hojas corrediza 1 hoja fija",
+    "perfil": "Remaches",
+    "ubicacion": "Remache 56",
+    "pzas": "26",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180°  1 hojas corrediza 1 hoja fija",
+    "perfil": "Tornillos 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180°  1 hojas corrediza 1 hoja fija",
+    "perfil": "Vinil pata 11",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 180°  1 hojas corrediza 1 hoja fija",
+    "perfil": "Vinil pata 11",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "4",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Riel baño de lujo",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Riel baño de lujo",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Guia baño inferior",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": ".8"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Guia baño inferior",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": ".8"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Jamba lateral baño Semilujo",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "1"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja corrediza Largo1",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.8"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja Fija Largo1",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "3.2"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja corrediza Largo1",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "-3.5/2"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja Fija Largo1",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "-3.5/2"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja corrediza Largo2",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.8"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja Fija Largo2",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "3.2"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja corrediza Largo2",
+    "pzas": "2",
+    "pos": "Largo2",
+    "desc": "-3.5/2"
+  },
+  {
+    "linea": "Cancel Baño Aluminio 90°",
+    "perfil": "Marco semilujo",
+    "ubicacion": "Hoja Fija Largo2",
+    "pzas": "2",
+    "pos": "Largo2",
+    "desc": "-3.5/2"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 90°",
+    "perfil": "Carretillas",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 90°",
+    "perfil": "Escuadras semilujo",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "16",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 90°",
+    "perfil": "Jaladeras Trompa de elefante",
+    "ubicacion": "Hoja corrediza Largo1",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 90°",
+    "perfil": "Jaladeras Trompa de elefante",
+    "ubicacion": "Hoja corrediza Largo2",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 90°",
+    "perfil": "Angulo 1 Pulgada",
+    "ubicacion": "Hoja corrediza Largo2",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "4.8"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 90°",
+    "perfil": "Remaches",
+    "ubicacion": "Remache 56",
+    "pzas": "60",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 90°",
+    "perfil": "Tornillos 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 90°",
+    "perfil": "Vinil pata 11",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "-largo 2"
+  },
+  {
+    "linea": "Herrajes Cancel Baño Aluminio 90°",
+    "perfil": "Vinil pata 11",
+    "ubicacion": "Hoja corrediza",
+    "pzas": "8",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Batiente de lujo sin venas",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "5.9"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Batiente de lujo sin venas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "2.5"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Tubo de 3x1",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Tubo de 3x1",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Tubo de 4 x 1 3/4",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "15.5"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Tubo de 4 x 1 3/4",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "4.9"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "15.5"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "24.9"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Hoja",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "15.5"
+  },
+  {
+    "linea": "Puerta 4 Pulgadas",
+    "perfil": "Intermedio 3 Pulgadas",
+    "ubicacion": "Hoja",
+    "pzas": "1",
+    "pos": "Alto",
+    "desc": "24.9"
+  },
+  {
+    "linea": "Herrajes Puerta 4 Pulgadas",
+    "perfil": "Bisagras s70",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 4 Pulgadas",
+    "perfil": "Tornillo 10x1",
+    "ubicacion": "Contramarco",
+    "pzas": "24",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 4 Pulgadas",
+    "perfil": "Chapa Sobreponer 715",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 4 Pulgadas",
+    "perfil": "Jaladera Tipo H Acero Inoxidable",
+    "ubicacion": "Hoja",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 4 Pulgadas",
+    "perfil": "Tornillo 10x3",
+    "ubicacion": "Contramarco",
+    "pzas": "6",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 4 Pulgadas",
+    "perfil": "Remache 56",
+    "ubicacion": "Contramarco",
+    "pzas": "20",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 4 Pulgadas",
+    "perfil": "Tensor 3/8",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 4 Pulgadas",
+    "perfil": "Escuadras para armar",
+    "ubicacion": "Hoja",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Puerta 4 Pulgadas",
+    "perfil": "Tornillos largos Jaladera",
+    "ubicacion": "Hoja",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "cancel para baño 180° 6mm 2 hojas corredizas",
+    "perfil": "Riel",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "cancel para baño 180° 6mm 2 hojas corredizas",
+    "perfil": "Guia",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": ".8"
+  },
+  {
+    "linea": "cancel para baño 180° 6mm 2 hojas corredizas",
+    "perfil": "Jambas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "1"
+  },
+  {
+    "linea": "cancel para baño 180° 6mm 2 hojas corredizas",
+    "perfil": "Cristal templado 6mm",
+    "ubicacion": "Hoja (X)",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "-2.5/2"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm180° 2 hojas corredizas",
+    "perfil": "Carretillas",
+    "ubicacion": "Hoja (X)",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm180° 2 hojas corredizas",
+    "perfil": "Pomo Jaladera",
+    "ubicacion": "Hoja (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm180° 2 hojas corredizas",
+    "perfil": "Gomas",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm180° 2 hojas corredizas",
+    "perfil": "Tornillos 8x1.5",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm180° 2 hojas corredizas",
+    "perfil": "Remaches",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Riel",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Guia",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": ".8"
+  },
+  {
+    "linea": "cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Jambas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "1"
+  },
+  {
+    "linea": "cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Cristal templado 6mm",
+    "ubicacion": "Hoja (X)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "-2.5/2"
+  },
+  {
+    "linea": "cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Cristal templado 6mm",
+    "ubicacion": "Hoja (O)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "-2.5/2"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Carretillas",
+    "ubicacion": "Hoja (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Pomo Jaladera",
+    "ubicacion": "Hoja (X)",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Gomas",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Tornillos 8x1.5",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 180° 1 Hoja corrediza 1 hoja fija",
+    "perfil": "Remaches",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Riel",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Riel",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo2",
+    "desc": "0"
+  },
+  {
+    "linea": "cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Guia",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo1",
+    "desc": ".8"
+  },
+  {
+    "linea": "cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Guia",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Largo2",
+    "desc": ".8"
+  },
+  {
+    "linea": "cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Jambas",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "1"
+  },
+  {
+    "linea": "cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Cristal templado 6mm",
+    "ubicacion": "Hoja (X)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "-2.5/2"
+  },
+  {
+    "linea": "cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Cristal templado 6mm",
+    "ubicacion": "Hoja (O)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "-2.5/2"
+  },
+  {
+    "linea": "cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Cristal templado 6mm",
+    "ubicacion": "Hoja (X)",
+    "pzas": "1",
+    "pos": "Largo2",
+    "desc": "-2.5/2"
+  },
+  {
+    "linea": "cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Cristal templado 6mm",
+    "ubicacion": "Hoja (O)",
+    "pzas": "1",
+    "pos": "Largo2",
+    "desc": "-2.5/2"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Carretillas",
+    "ubicacion": "Hoja (X)",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Pomo Jaladera",
+    "ubicacion": "Hoja (X)",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Gomas",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Tornillos 8x1.5",
+    "ubicacion": "Contramarco",
+    "pzas": "4",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Remaches",
+    "ubicacion": "Contramarco",
+    "pzas": "14",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Escuadra Guia",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes cancel para baño 6mm 90° 2 Hojas corredizas 2 hojas fijas",
+    "perfil": "Escuadra Riel",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel Bacalar 180° corredizo 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (X)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel Bacalar 180° corredizo 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (O)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Bacalar 180° Corredizo 9.5mm",
+    "perfil": "Tornillo inoxidable 10x1.5",
+    "ubicacion": "Contramarco",
+    "pzas": "3",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Bacalar 180° Corredizo 9.5mm",
+    "perfil": "Kit Bacalar",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Bacalar 180° Corredizo 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel Bacalar 180° Corredizo 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel abatible 180° 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (X)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel abatible 180° 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (O)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 180° 9.5mm",
+    "perfil": "Tornillo inoxidable 10x1.5",
+    "ubicacion": "Contramarco",
+    "pzas": "9",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 180° 9.5mm",
+    "perfil": "Bisagras Muro vidrio",
+    "ubicacion": "hoja",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 180° 9.5mm",
+    "perfil": "Pomo Jaladera",
+    "ubicacion": "hoja",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 180° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 180° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel abatible 90° 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (X)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel abatible 90° 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (O)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel abatible 90° 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (O)",
+    "pzas": "1",
+    "pos": "Largo2",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Tornillo inoxidable 10x1.5",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Bisagras Vidrio vidrio 180°",
+    "ubicacion": "hoja",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Pomo Jaladera",
+    "ubicacion": "hoja",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo2",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Barra estabilizadora",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Barra estabilizadora",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo2",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Conector barra 90°",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Conector cristal barra",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 90° 9.5mm",
+    "perfil": "Conector barra muro",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel abatible 135° 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (O)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel abatible 135° 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (X)",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Cancel abatible 135° 9.5mm",
+    "perfil": "Cristal templado 9.5mm",
+    "ubicacion": "Hoja (O)",
+    "pzas": "1",
+    "pos": "Largo2",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Tornillo inoxidable 10x1.5",
+    "ubicacion": "Contramarco",
+    "pzas": "8",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Bisagras Vidrio vidrio 135°",
+    "ubicacion": "hoja",
+    "pzas": "2",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Pomo Jaladera",
+    "ubicacion": "hoja",
+    "pzas": "1",
+    "pos": "nan",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo3",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Clip Muro Vidrio",
+    "ubicacion": "Contramarco",
+    "pzas": "2",
+    "pos": "Alto",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Barra estabilizadora",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Barra estabilizadora",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo2",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Barra estabilizadora",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo3",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Conector barra ajustable°",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo2",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Conector barra ajustable°",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo2",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Conector cristal barra",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Conector cristal barra",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo3",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Conector barra muro",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo1",
+    "desc": "0"
+  },
+  {
+    "linea": "Herrajes Cancel abatible 135° 9.5mm",
+    "perfil": "Conector barra muro",
+    "ubicacion": "Contramarco",
+    "pzas": "1",
+    "pos": "Largo3",
+    "desc": "0"
+  }
+]
